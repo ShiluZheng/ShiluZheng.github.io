@@ -1,0 +1,33 @@
+# title: Shilu Zheng
+# email: shiluzheng@xmu.edu.cn
+
+url: https://shiluzheng.github.io/
+researchgate: https://www.researchgate.net/profile/Shilu-Zheng
+scholar: https://scholar.google.com/citations?user=jvg1Lk4AAAAJ&hl
+
+# Build settings
+theme: minima
+include_custom_styles: true
+
+
+# Links to include in top navigation
+
+header_pages:
+  - index.markdown
+  - research.markdown
+  # - people.md
+  - publications.markdown
+  - contact.markdown
+
+
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
