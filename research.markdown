@@ -14,9 +14,9 @@ title: Research
   <p>
     Natural history specimens offer a powerful window into how species respond to global change across vast spatial and temporal scales. 
     They are especially valuable for studying morphological shifts in species at a global scale.
-    Our current research focuses on uncovering patterns and drivers of intraspecific trait variation in wildlife, 
+    Our research focuses on uncovering patterns and drivers of intraspecific trait variation in wildlife, 
     in relation to climate change and human pressures. By examining how individual-level traits shift over time and space, 
-    we aim to better understand the capacity of species to cope with our rapidly changing world.
+    we aim to better understand the capacity of species to cope with rapidly changing world.
   </p>
 
 </div>
@@ -38,7 +38,7 @@ title: Research
     However, major challenges remain in understanding the cascading effects of these shifts on populations, communities, and ecosystems.
     To address this, we integrate ecological “big data” from public databases with insights from local-scale experiments, 
     to explore how individual-level trait change scales up. 
-    We aim to answer the “so what” question—what do intraspecific trait changes mean for biodiversity and ecosystem function in a rapidly changing world?
+    We aim to answer the “so what” question—what do intraspecific trait changes mean for biodiversity and ecosystem function in the face of accelerating global change?
   </p>
 
 </div>
