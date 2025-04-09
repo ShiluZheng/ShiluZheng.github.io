@@ -1,4 +1,4 @@
- title: Shilu Zheng
+# title: Shilu Zheng
 # email: shiluzheng@xmu.edu.cn
 
 url: https://shiluzheng.github.io/
@@ -7,6 +7,8 @@ scholar: https://scholar.google.com/citations?user=jvg1Lk4AAAAJ&hl
 
 # Build settings
 theme: minima
+include_custom_styles: true
+
 
 # Links to include in top navigation
 
