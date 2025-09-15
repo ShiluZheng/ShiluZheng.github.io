@@ -15,7 +15,7 @@ include_custom_styles: true
 header_pages:
   - index.markdown
   - research.markdown
-  # - people.md
+  - people.md
   - publications.markdown
   - contact.markdown
 
