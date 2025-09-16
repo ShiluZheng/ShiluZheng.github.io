@@ -11,7 +11,7 @@ permalink: /publications/
 <p style="color: #555;"><strong>2025</strong></p>
 
 <p style="color: #777;"><strong>Zheng, S.</strong>, Lindenmayer, D.B., Sreekar, R., Hua, F., Hu, J., Chen, Q., Ma, Z., Li, B., and Liu, J. 2025. Effects of long-term intraspecific trait change on bird community functional structure. <i>Curr Biol</i>. 
-<a href="https://authors.elsevier.com/c/1lK~j3QW8SA3Dv" target="_blank" style="font-weight: bold; color: black;">(Article)</a></p>
+<a href="https://www.sciencedirect.com/science/article/pii/S0960982225007481" target="_blank" style="font-weight: bold; color: black;">(Article)</a></p>
 
 <p style="color: #777;">Zhang, Y., Liu, J., <strong>Zheng, S.</strong>, Wang, J., Wang, K., Wang, D., and Mei, Z. 2025. Range contraction of the Yangtze finless porpoise inferred from classic Chinese poems. <i>Curr Biol</i> 35(9), R329-R330. 
 <a href="http://doi.org/10.1016/j.cub.2025.02.052" target="_blank" style="font-weight: bold; color: black;">(Article)</a></p>

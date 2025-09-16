@@ -7,7 +7,7 @@ title: People
 
 <div style="color: #666; font-size: 17px; line-height: 1.6; display: flex; align-items: center;">
   <img src="/images/Shilu.jpg" alt="Shilu"
-       style="width: 220px; margin-right: 20px; margin-bottom: 10px; border-radius: 8px; align-self: center;">
+       style="width: 240px; height: 180px; margin-right: 20px; margin-bottom: 10px; border-radius: 8px; align-self: center;">
 
   <p>
     Shilu is an Associate Professor in the College of Environment and Ecology of Xiamen University. 
@@ -28,7 +28,7 @@ title: People
 
 <div style="color: #666; font-size: 17px; line-height: 1.6; display: flex; align-items: center;">
   <img src="/images/Feixue.jpg" alt="Feixue"
-       style="width: 220px; margin-right: 20px; margin-bottom: 10px; border-radius: 8px; align-self: center;">
+       style="width: 240px; height: 180px; margin-right: 20px; margin-bottom: 10px; border-radius: 8px; align-self: center;">
 
   <p>
     Feixue joined the lab as a PhD student in Fall 2025. She is interested in collecting Pop Mart dolls.
