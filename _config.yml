@@ -12,6 +12,7 @@ include_custom_styles: true
 
 # Links to include in top navigation
 
+
 header_pages:
   - index.markdown
   - research.markdown
