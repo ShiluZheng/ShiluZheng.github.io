@@ -49,7 +49,7 @@ title: People
 
   <p>
 
-    XueMin is a Master's student commencing her studies in 2025. 
+    Xuemin is a Master's student commencing her studies in 2025. 
     She earned her bachelor's degree in Botany from Fujian Agriculture and Forestry University.
     Her current research focuses on the relationship between bird plumage color and species threat status.
     Outside of academics, she likes swimming, doing handcrafts, exploring outdoors, and delicious food. 
