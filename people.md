@@ -61,24 +61,6 @@ title: People
 </div>
 
 
- <p> </p>
-  <p> </p>
-
-<p style="font-weight: bold; font-size: 20px;">Fenghua Yu 余枫铧, Master Student (she/her)</p>
-
-<div style="color: #666; font-size: 17px; line-height: 1.6; display: flex; align-items: center;">
-  <img src="/images/people_Fenghua.jpg" alt="Fenghua"
-       style="width: 220px; margin-right: 20px; margin-bottom: 10px; border-radius: 8px; align-self: center;">
-
-  <p>
-  Fenghua joined the lab in 2025. She is a young but experienced birder. 
-  Her research focuses on how waterbird communities respond to coastal wetland restoration efforts.
-    
-  </p>
-
-</div>
-
-
 
 
 

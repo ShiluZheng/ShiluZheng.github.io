@@ -7,6 +7,11 @@ permalink: /publications/
 
 <h1 style="text-align: center; font-weight: bold; color: #333;">Publications</h1>
 
+<p style="color: #555;"><strong>2026</strong></p>
+
+<p style="color: #777;">Zhao, Y., Luo, Y., <strong>Zheng, S.</strong>, Zhang, T., and Liu, J. 2025. Latitudinal diversity gradients of soil seed bank and aboveground vegetation in China. <i>Plant Divers</i>. 
+<a href="https://www.sciencedirect.com/science/article/pii/S2468265926001186" target="_blank" style="font-weight: bold; color: black;">(Article)</a></p>
+
 
 <p style="color: #555;"><strong>2025</strong></p>
 
