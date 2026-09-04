@@ -39,7 +39,7 @@ title: News
         <span>{{ item.category }}</span>
       </div>
       <div class="news-story-body">
-        {%- if item.featured -%}<p class="news-story-label">Featured research</p>{%- endif -%}
+        {%- if item.featured -%}<p class="news-story-label">Featured</p>{%- endif -%}
         <h3><a href="{{ item.url | relative_url }}">{{ item.title }}</a></h3>
         <p>{{ item.summary }}</p>
       </div>
