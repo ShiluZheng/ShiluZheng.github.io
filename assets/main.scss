@@ -60,10 +60,10 @@
 
 .news-title-banner {
   display: flex;
-  min-height: 255px;
+  min-height: 225px;
   box-sizing: border-box;
   align-items: flex-end;
-  padding: 35px 38px 72px;
+  padding: 35px 38px 62px;
   background:
     linear-gradient(90deg, rgba(9, 36, 39, 0.8) 0%, rgba(9, 36, 39, 0.48) 48%, rgba(9, 36, 39, 0.08) 100%),
     url("/images/news-banner.jpg") center center / cover no-repeat;
@@ -279,8 +279,8 @@
   }
 
   .news-title-banner {
-    min-height: 210px;
-    padding: 25px 18px 60px;
+    min-height: 185px;
+    padding: 25px 18px 53px;
     background-position: 58% center;
   }
 

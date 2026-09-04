@@ -59,3 +59,22 @@ title: People
   </p>
 
 </div>
+
+  <p> </p>
+  <p> </p>
+
+<p style="font-weight: bold; font-size: 20px;">Tingyu Bai 白婷玉, Master's Student (she/her)</p>
+
+<div style="color: #666; font-size: 17px; line-height: 1.6; display: flex; align-items: center;">
+  <img src="/images/people_Tingyu.jpg" alt="Tingyu"
+       style="width: 220px; margin-right: 20px; margin-bottom: 10px; border-radius: 8px; align-self: center;">
+
+  <p>
+    Tingyu joined the group as a master's student in 2026.
+    Her current research focuses on vertebrate biodiversity surveys in mangrove ecosystems.
+    Outside of academics, she enjoys reading novels, listening to music, making handicrafts, drawing, and hiking.
+    She looks forward to learning and growing with the lab.
+    Contact: baitingyu0314@163.com
+  </p>
+
+</div>
