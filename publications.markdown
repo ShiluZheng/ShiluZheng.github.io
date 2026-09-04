@@ -7,9 +7,11 @@ permalink: /publications/
 
 <h1 style="text-align: center; font-weight: bold; color: #333;">Publications</h1>
 
+<div class="publications-list">
+
 <p style="color: #555;"><strong>2026</strong></p>
 
-<p style="color: #777;">Zhao, Y., Luo, Y., <strong>Zheng, S.</strong>, Zhang, T., and Liu, J. 2025. Latitudinal diversity gradients of soil seed bank and aboveground vegetation in China. <i>Plant Divers</i>. 
+<p style="color: #777;">Zhao, Y., Luo, Y., <strong>Zheng, S.</strong>, Zhang, T., and Liu, J. 2025. Latitudinal diversity gradients of soil seed bank and aboveground vegetation in China. <i>Plant Divers</i>.
 <a href="https://www.sciencedirect.com/science/article/pii/S2468265926001186" target="_blank" style="font-weight: bold; color: black;">(Article)</a></p>
 
 
@@ -71,9 +73,7 @@ permalink: /publications/
 <p style="color: #777;">Zhang, A.#, <strong>Zheng, S.</strong>#, Didham, R.K., Holt, R.D., and Yu, M. 2021. Nonlinear thresholds in the effects of island area on functional diversity in woody plant communities. <i>J Ecol</i> 109(5), 2177-2189. #co-first author
 <a href="http://doi.org/10.1111/1365-2745.13632" target="_blank" style="font-weight: bold; color: black;">(Article)</a></p>
 
-
-
-
+</div>
 
 
 

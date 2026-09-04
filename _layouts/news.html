@@ -1,0 +1,22 @@
+---
+layout: base
+---
+
+<article class="news-article">
+  <a class="news-article-back" href="{{ '/' | relative_url }}">← Back to news</a>
+
+  <header class="news-article-header">
+    <div class="news-article-meta">
+      <time datetime="{{ page.year }}">{{ page.year }}</time>
+      <span>{{ page.category }}</span>
+    </div>
+    <h1>{{ page.title | escape }}</h1>
+    {%- if page.summary -%}
+      <p>{{ page.summary }}</p>
+    {%- endif -%}
+  </header>
+
+  <div class="news-article-content">
+    {{ content }}
+  </div>
+</article>

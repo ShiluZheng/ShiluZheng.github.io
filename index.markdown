@@ -1,30 +1,50 @@
 ---
 layout: page
-title: About
+title: News
 ---
 
 
-<div style="background: url('/images/firstpage.jpg') no-repeat center center; background-size: cover; padding: 50px 0; text-align: center; color: #333;">
-  <div style="background-color: rgba(255, 255, 255, 0.7); display: inline-block; padding: 20px; max-width: 600px; width: 100%; border-radius: 10px;">
-    <!-- Centered and bold title -->
-    <p style="font-weight: bold; font-size: 30px; margin: 0;">Zheng Lab</p>
-    
-    <!-- Existing content with white background for readability -->
-    <div style="display: flex; align-items: flex-start; gap: 30px; color: #666;">
-      <div style="flex: 1;">
-        <p>
-          We are interested in the effects of global environmental change on biodiversity, with a particular focus on trait-based approaches to understand how human activities and climate change influence wildlife at multiple scales. 
-          A distinctive feature of our work is the use of natural history specimens, which enables the assessment of large-scale spatiotemporal intraspecific trait variation in response to global change.
-        </p>
-        <p>
-          Our research aims to advance both theoretical and empirical understanding of how biota respond to global change, 
-          ranging from individual-level trait shifts to community-level functional restructuring. 
-          By integrating field data, large-scale open databases, and statistical modeling, we aim to uncover general patterns of resilience and vulnerability in the face of rapid environmental change, 
-          and to inform more effective strategies for biodiversity conservation and ecosystem management in a changing world.
-        </p>
-      </div>
+<div class="news-home">
+  <section class="news-intro" aria-labelledby="news-intro-title">
+    <div class="news-title-banner">
+      <h1 id="news-intro-title">Biodiversity in a changing world</h1>
     </div>
-  </div>
+
+    <div class="news-intro-details">
+      <p class="news-lede">
+        Research updates, new papers, field observations, and stories from our lab
+        at Xiamen University.
+      </p>
+
+      <aside class="news-focus" aria-label="Research focus">
+        <p>Research focus</p>
+        <ul>
+          <li>Biodiversity</li>
+          <li>Functional traits</li>
+          <li>Global change</li>
+        </ul>
+      </aside>
+    </div>
+  </section>
+
+  <section class="news-section" aria-labelledby="latest-news-title">
+    <div class="news-section-heading">
+      <h2 id="latest-news-title">Latest news</h2>
+      <a href="{{ '/news/' | relative_url }}">News archive →</a>
+    </div>
+
+    {%- for item in site.data.news limit: 3 -%}
+    <article class="news-story{% if item.featured %} news-story-featured{% endif %}">
+      <div class="news-meta">
+        <time datetime="{{ item.year }}">{{ item.year }}</time>
+        <span>{{ item.category }}</span>
+      </div>
+      <div class="news-story-body">
+        {%- if item.featured -%}<p class="news-story-label">Featured research</p>{%- endif -%}
+        <h3><a href="{{ item.url | relative_url }}">{{ item.title }}</a></h3>
+        <p>{{ item.summary }}</p>
+      </div>
+    </article>
+    {%- endfor -%}
+  </section>
 </div>
-
-
