@@ -12,8 +12,7 @@ title: News
 
     <div class="news-intro-details">
       <p class="news-lede">
-        Research updates, new papers, field observations, and stories from our lab
-        at Xiamen University.
+        Research updates, field observations, and stories from our lab at Xiamen University.
       </p>
 
       <aside class="news-focus" aria-label="Research focus">

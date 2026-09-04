@@ -11,6 +11,11 @@ Bird communities are often described using differences among species. Yet traits
 
 Our study brings long-term intraspecific trait change into this community-level picture. By connecting change within species to broader patterns across bird communities, the work highlights why historical and contemporary trait information should be considered together.
 
+<figure class="news-article-figure">
+  <img src="{{ '/images/2025-trait-change-figure-2.png' | relative_url }}" alt="Four panels showing changes in community-weighted mean body length, absolute wing length, tail length, and relative wing length from 1970 to 2020, with and without intraspecific trait change" width="1216" height="926" loading="lazy" decoding="async">
+  <figcaption><strong>Figure 2. Community-weighted mean trait changes over time with vs. without intraspecific trait change</strong></figcaption>
+</figure>
+
 The paper was published in *Current Biology* in 2025.
 
 <div class="news-article-details">

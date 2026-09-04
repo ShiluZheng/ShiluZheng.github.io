@@ -7,7 +7,11 @@ layout: base
 
   <header class="news-article-header">
     <div class="news-article-meta">
+      {%- if page.published_date -%}
+      <time datetime="{{ page.published_date | date: '%Y-%m-%d' }}">{{ page.published_date | date: '%Y/%-m/%-d' }}</time>
+      {%- else -%}
       <time datetime="{{ page.year }}">{{ page.year }}</time>
+      {%- endif -%}
       <span>{{ page.category }}</span>
     </div>
     <h1>{{ page.title | escape }}</h1>
