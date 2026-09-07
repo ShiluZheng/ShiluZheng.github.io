@@ -41,6 +41,27 @@ title: People
   <p> </p>
   <p> </p>
 
+<p style="font-weight: bold; font-size: 20px;">Jie Xie 谢杰, PhD Student (he/his)</p>
+
+<div style="color: #666; font-size: 17px; line-height: 1.6; display: flex; align-items: center;">
+  <img src="/images/people_Jie.jpg" alt="Jie"
+       style="width: 220px; margin-right: 20px; margin-bottom: 10px; border-radius: 8px; align-self: center;">
+
+  <p>
+    Jie joined the research group in 2026 as a PhD student in ecology.
+    His research focuses on avian ecology and conservation biology, with a particular interest in intraspecific variation in avian functional traits under global change.
+    He is also broadly interested in biodiversity conservation.
+    He enjoys birdwatching and fieldwork, especially observing birds and collecting data in the wild.
+    During his doctoral studies, he hopes to produce ecological research that is both rigorous and meaningful.
+    Outside of research, he enjoys playing basketball.
+    Contact: xiejie10256@163.com
+  </p>
+
+</div>
+
+  <p> </p>
+  <p> </p>
+
 <p style="font-weight: bold; font-size: 20px;">Xuemin Gan 甘学敏, Master Student (she/her)</p>
 
 <div style="color: #666; font-size: 17px; line-height: 1.6; display: flex; align-items: center;">
@@ -75,6 +96,24 @@ title: People
     Outside of academics, she enjoys reading novels, listening to music, making handicrafts, drawing, and hiking.
     She looks forward to learning and growing with the lab.
     Contact: baitingyu0314@163.com
+  </p>
+
+</div>
+
+  <p> </p>
+  <p> </p>
+
+<p style="font-weight: bold; font-size: 20px;">Yichen Guo 郭一辰, Research Assistant (he/his)</p>
+
+<div style="color: #666; font-size: 17px; line-height: 1.6; display: flex; align-items: center;">
+  <img src="/images/people_Yichen.jpg" alt="Yichen"
+       style="width: 220px; margin-right: 20px; margin-bottom: 10px; border-radius: 8px; align-self: center;">
+
+  <p>
+    Yichen joined the lab as a research assistant in Fall 2026.
+    His current research focuses on the factors that influence how effectively acoustic indices predict terrestrial biodiversity, as well as conservation gaps in avian phylogenetic diversity within Key Biodiversity Areas (KBAs) under human pressure.
+    Outside of work, he enjoys bird ringing, birding, fishkeeping, observing insects, and drawing.
+    Contact: gyc13373462534@163.com
   </p>
 
 </div>
