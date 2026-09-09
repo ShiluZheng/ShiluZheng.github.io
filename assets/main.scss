@@ -451,6 +451,14 @@
   line-height: 1.55;
 }
 
+.news-article-figure-compact {
+  max-width: 470px;
+}
+
+.news-article-figure-compact figcaption {
+  color: #5f6461;
+}
+
 .news-photo-pair {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
@@ -543,6 +551,21 @@
   font-weight: 400;
 }
 
+.news-people-grid-three {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 18px;
+}
+
+.news-people-grid-three figure {
+  width: auto;
+}
+
+.news-people-grid-three img {
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+}
+
 @media screen and (max-width: 600px) {
   .news-article {
     padding-top: 12px;
@@ -568,6 +591,10 @@
     grid-template-columns: 1fr;
     justify-items: center;
     gap: 18px;
+  }
+
+  .news-people-grid-three figure {
+    width: 220px;
   }
 
   .news-photo-pair {
