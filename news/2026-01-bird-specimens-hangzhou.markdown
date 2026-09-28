@@ -4,7 +4,7 @@ title: Two weeks with bird specimens in Hangzhou
 permalink: /news/bird-specimens-hangzhou/
 year: 2026
 published_date: 2026-08-16
-category: Lab news
+category: Fieldwork
 summary: In summer 2026, our lab spent two weeks measuring bird specimens at the Zhejiang Museum of Natural History, and celebrated two birthdays along the way.
 ---
 
