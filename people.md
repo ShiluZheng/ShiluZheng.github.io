@@ -62,7 +62,7 @@ title: People
   <p> </p>
   <p> </p>
 
-<p style="font-weight: bold; font-size: 20px;">Xuemin Gan 甘学敏, Master Student (she/her)</p>
+<p style="font-weight: bold; font-size: 20px;">Xuemin Gan 甘学敏, Master's Student (she/her)</p>
 
 <div style="color: #666; font-size: 17px; line-height: 1.6; display: flex; align-items: center;">
   <img src="/images/people_Xuemin.jpg" alt="Xuemin"
